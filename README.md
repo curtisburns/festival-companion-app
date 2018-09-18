@@ -154,14 +154,11 @@ Since most people would use this app on mobile, perhaps even whilst at a festiva
 </p>
 
 ## Wins and Blockers
-As a team, I would say the styling was a huge win. We were really pleased with the design, both of small components, and the bigger picture. Our biggest blocker was probably getting friend requests, passenger requests, and attendees working on both the front end and the back end. I think it would have been good to start these more difficult elements earlier than we did.
+A big win for me would be to have implemented the passenger, attendee and friend request functionality, as it proved extremely challenging to do. I feel that while I managed to achieve it, if I had started working on it sooner, we would have had more time to add and refine the other features that I felt were quite important to the purpose of the app. Also, some features could not have been added until these were completed so we could not skip these out.
 
-In terms of the elements I built, the biggest win was working with the APIs, in particular MapQuest, which I had never used prior to starting this project. It was harder to get to grips with than Leaflet, which I had used before. But we loved MapQuest's tiles and markers so I persisted. I looked at getting a road map on the car share show page with MapQuest's direction endpoint, instead of the straight line. I could see how I could do it in a rough way, but it didn't come together, so this is something I would like to add as a future feature.
+Another win would be the quality of the wireframing/designing. I feel it gave us an idea of what it was that needed to be done by giving an idea of the structure of the app. It was also great to have been able to achieve a final product that resembled what we originally designed.
 
-My biggest blocker was probably testing. The main difficulty was when tests broke, it was hard to know whether that was because the code was wrong, or because the tests weren't written properly.
-
+A significant blocker for me was the testing, which after having just been introduced to it, I was unsure if the reasons they weren't passing was due to the fact that my code had bugs or if I had written the tests correctly. This took up much more time than I had expected, which push other plans back. If I was to have gone through the experience again I would have taken a break from trying to get the tests working much sooner to get more of the main functionality into the app.
 
 ## Future Features
-Among the APIs we would like to add in the future are Twilio to send SMS messages about car shares, and TfL and Transport API to incorporate public transport timetables and service updates. The latter especially is something I would like to focus on next.
-
-We would also like to allow the festival organisers to place points on the site map to show where the stage, toilets, entrances and exits etc were. Then the user could mark the location of their tent, and navigate around the festival site easier.
+The app was intended to be a companion app for festival goers, and we felt that a really good feature for this would have been for users to be able to track their friends at festivals using a geolocation that the user last checked in. It would also be good for users to be able to place a marker where their tents are and for festival organisers to create a map with markers for main stages, toilets, food stalls etc for users to navigate. The map and carshare planner could also be taken further, with costs being calculated based on the car and distance and the number of pickups along the way.
