@@ -144,7 +144,7 @@ Since most people would use this app on mobile, perhaps even whilst at a festiva
 
 #### User Index
 <p align="center">
-  <img height=636 alt="User Index" src="./screenshots/find-friends.png">
+  <img height=636 alt="User Index" src="./screenshots/users-index.png">
 </p>
 
 
