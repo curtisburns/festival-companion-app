@@ -1,8 +1,13 @@
 # General Assembly WDI Project 3: Festinate (Group Project)
 
-[Heroku](https://festinate.herokuapp.com/)
+<p align="center">
+  <img height=736 alt="Welcome/Login" src="./screenshots/login.png">
+</p>
 
-[GitHub Repo](https://github.com/platypotomus/festival-companion-app)
+[Visit the Easel app on Heroku](https://festinate.herokuapp.com/)
+
+[View the Easel app on GitHub](https://github.com/curtisburns/festival-companion-app)
+
 
 ## Brief
 Your instructors will partner you with other classmates to design and collaboratively build a MEAN stack app of your own design.
@@ -20,7 +25,7 @@ Your app must:
 
 
 ## App Description
-Festinate is a festival companion app, designed for mobile first. Users have access to a variety of features, such as adding festivals, adding and deleting other users as friends, and creating and managing car shares. It also features external APIs to offer useful, up-to-date information about the festival.
+Festinate is a festival companion app, designed for mobile first. The purpose of the app is for festival organisers to be able to add the event to the feed so that users can confirm their attendance and arrange car shares, while also being informed of the weather for upcoming events. This is achieved through the use of a passenger and attendee system and external APIs such as MapQuest and Dark Sky.
 
 
 ## Technologies Used
@@ -56,7 +61,7 @@ Festinate is a festival companion app, designed for mobile first. Users have acc
 * Fontawesome
 
 ## APIs Used
-* Dark Skies
+* Dark Sky
 * Filestack
 * Mapquest
 * Nominatim
@@ -68,19 +73,31 @@ Festinate is a festival companion app, designed for mobile first. Users have acc
 We began wireframing on Sketch, using a Sketch template as a guide. We then moved to [Marvel](https://marvelapp.com/428e1e4/screen/46835471) to link the pages up.
 
 #### Login
-![Login Wireframe](./wireframes/login.png)
+<p align="center">
+  <img height=736 alt="Login" src="./wireframes/login.png">
+</p>
+
+
 
 #### Festivals Index
-![Festivals Index Wireframe](./wireframes/festivals-index.png)
+<p align="center">
+  <img height=736 alt="Festivals Index Wireframe" src="./wireframes/festivals-index.png">
+</p>
 
 #### Festivals Show
-![Festivals Show Wireframe](./wireframes/festival-show.png)
+<p align="center">
+  <img height=636 alt="Festivals Show Wireframe" src="./wireframes/festival-show.png">
+</p>
 
 ##### Car Shares Index
-![Car Shares Index Wireframe](./wireframes/car-shares-index.png)
+<p align="center">
+  <img height=736 alt="Car Shares Index Wireframe" src="./wireframes/car-shares-index.png">
+</p>
 
 ##### Profile Page
-![Profile Page Wireframe](./wireframes/profile-page.png)
+<p align="center">
+  <img height=736 alt="Profile Page Wireframe" src="./wireframes/profile-page.png">
+</p>
 
 
 ### Functionality
@@ -99,24 +116,42 @@ Since most people would use this app on mobile, perhaps even whilst at a festiva
 
 ### Finished Product
 
+
+
 #### Welcome/Login
-![Login](./screenshots/login.png)
+<p align="center">
+  <img height=636 alt="Welcome/Login" src="./screenshots/login.png">
+</p>
 
 #### Festival Index
-![Festivals Index](./screenshots/festivals-index.png)
+<p align="center">
+  <img height=636 alt="Festivals Index" src="./screenshots/festivals-index.png">
+</p>
 
 #### Festival Show
-![Festival Show](./screenshots/festivals-show.png)
-![Festival Show](./screenshots/festivals-show2.png)
+<p align="center">
+  <img height=636 alt="Festival Show" src="./screenshots/festivals-show.png">
+</p>
+
+<p align="center">
+  <img height=636 alt="Festival Show" src="./screenshots/festivals-show2.png">
+</p>
 
 #### Car Share Index
-![Car Shares Index](./screenshots/car-shares-index.png)
+<p align="center">
+  <img height=636 alt="Car Shares Index" src="./screenshots/car-shares-index.png">
+</p>
 
 #### User Index
-![User Index](./screenshots/find-friends.png)
+<p align="center">
+  <img height=636 alt="User Index" src="./screenshots/find-friends.png">
+</p>
+
 
 #### Profile Page
-![Profile Page](./screenshots/profile-page.png)
+<p align="center">
+  <img height=636 alt="Profile Page" src="./screenshots/profile-page.png">
+</p>
 
 ## Wins and Blockers
 As a team, I would say the styling was a huge win. We were really pleased with the design, both of small components, and the bigger picture. Our biggest blocker was probably getting friend requests, passenger requests, and attendees working on both the front end and the back end. I think it would have been good to start these more difficult elements earlier than we did.
