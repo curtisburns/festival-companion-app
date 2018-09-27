@@ -103,13 +103,12 @@ We began wireframing on Sketch, using a Sketch template as a guide. We then move
 ### Functionality
 We started out by building and testing the back end, before building the front end and styling. Everyone in the group worked on a part of each section.
 
-We started out by getting the basic RESTful routes working (users, festivals, and car shares) before moving onto extras such as friend and passenger requests, which took longer.
+We started out by getting the basic RESTful routes working (users, festivals, and car shares) before moving onto extras such as friend and passenger requests which took longer.
 
-APIs came a little later, which, apart from Filestack, were handled by me. We did have a list of other APIs we wanted to include, which are potential future features.
+Ellie then took care of adding the APIs such as Dark Sky and I added Filestack. Unfortanatly due to time constraints, and the dependency on some of the features relying on the passenger and friend system, we were unable to complete some of the functionality, which is mentioned below as future features.
 
 
 ### Styling
-We chose a neutral black and dark purple for our colour scheme. We used three Google fonts: Oxygen for all the text apart from the app name on the login page, for which we used Orbitron and Shrikhand.
 
 Since most people would use this app on mobile, perhaps even whilst at a festival, we designed for mobile first. So we used Bulma to take advantage of its cross-device capabilities. At the time of delivery, Festinate was optimised for iPhone 8 (and other phones of similar screen sizes,) and was not styled so well for larger or smaller screens. However, this is something to change in the future.
 
