@@ -25,7 +25,7 @@ Your app must:
 
 
 ## App Description
-Festinate is a festival companion app, designed for mobile first. The purpose of the app is for festival organisers to be able to add the event to the feed so that users can confirm their attendance and arrange car shares, while also being informed of the weather for upcoming events. This is achieved through the use of a passenger and attendee system and external APIs such as MapQuest and Dark Sky.
+Festinate is a festival companion app, designed for mobile first. The purpose of the app is for festival organisers to be able to add an event to the feed so that users can confirm their attendance and arrange car shares, while also being informed of the weather for upcoming events. This is achieved through the use of a passenger and attendee system and external APIs such as MapQuest and Dark Sky.
 
 
 ## Technologies Used
