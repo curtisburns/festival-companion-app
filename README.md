@@ -152,9 +152,10 @@ Since most people would use this app on mobile, perhaps even whilst at a festiva
   <img height=636 alt="Profile Page" src="./screenshots/profile-page.png">
 </p>
 
-##Blockers
+## Blockers
 A significant blocker for me was the testing, which after having just been introduced to it, I was unsure if the reasons they weren't passing was due to the fact that my code had bugs or if I had written the tests correctly. This took up much more time than I had expected, which push other plans back. If I was to have gone through the experience again I would have taken a break from trying to get the tests working much sooner to get more of the main functionality into the app.
-##Wins
+
+## Wins
 A big win for me would be to have implemented the passenger, attendee and friend request functionality, as it proved extremely challenging to do. I feel that while I managed to achieve it, if I had started working on it sooner, we would have had more time to add and refine the other features that I felt were quite important to the purpose of the app. Also, some features could not have been added until these were completed so we could not skip these out.
 
 Another win would be the quality of the wireframing/designing. I feel it gave us an idea of what it was that needed to be done by giving an idea of the structure of the app. It was also great to have been able to achieve a final product that resembled what we originally designed.
